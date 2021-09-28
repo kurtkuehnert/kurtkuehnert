@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ku95&label=Profile%20views&color=0e75b6&style=flat" alt="Ku95" /> </p>
 
-- 🌱 I’m currently learning **Haskell, Elm, APL.**
+- 🌱 I’m currently learning **Rust**
 - ✝️ Christian
 - 🚴 Cyclist
 - 📫 How to reach me **kurt.kuehnert@s2019.tu-chemnitz.de**
