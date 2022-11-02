@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kurt</h1>
-<h3 align="center">I'm a student at the TU Chemnitz.</h3>
+<h3 align="center">I'm a master’s student at the TU Chemnitz.</h3>
 
 - 🌱 I'm currently learning **Rust** and **Computer Graphics**.
 - ✝️ Christian
