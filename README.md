@@ -1,9 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Kurt</h1>
-<h3 align="center">I'm a master’s student at the TU Chemnitz.</h3>
+## Kurt Kühnert
 
-- 🌱 I'm currently learning **Rust** and **Computer Graphics**.
-- ✝️ Christian
-- 🚴 Cyclist
-- 🎓 Bachelor of Science in Computer Science
-- 📫 How to reach me **kurt@kuehnert.dev**
-- 🎥 Follow my [youtube channel](https://youtube.com/@kurtkuehnert) for short videos about my projects. 
+Software Engineer focused on GPU visualization, terrain rendering, and geospatial systems.  
+Working with Rust and WebGPU to build efficient real-time rendering pipelines for large-scale geodata.
